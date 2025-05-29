@@ -28,6 +28,9 @@
 * User management
 * Order cancel, return , etc functionalities.
 
+## Live Project
+https://eclypse-frontend-ilrq.onrender.com/
+
 ## Directory Structure
 ![Screenshot of Eclypse homepage](./frontend/src/assets/directoryStructure.png)
 
