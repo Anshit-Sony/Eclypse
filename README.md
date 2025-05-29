@@ -11,7 +11,7 @@
 * Scalable architecture suitable for production deployment
 
 ## Screenshot
-![Screenshot of Eclypse homepage](./frontend/src/assets/img1.jpg)
+![Screenshot of Eclypse homepage](./frontend/src/assets/logo.jpg)
 
 
 ## Project Structure
