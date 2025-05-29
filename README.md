@@ -10,19 +10,9 @@
 * React-based frontend with modern component architecture
 * Scalable architecture suitable for production deployment
 
-## Screenshot
-![Screenshot of Eclypse homepage](./frontend/src/assets/vid1.mp4)
+## Directory Structure
+![Screenshot of Eclypse homepage](./frontend/src/assets/directoryStructure.png)
 
-
-## Project Structure
-
-```
-Eclypse/
-├── backend/
-├── frontend/   # Client-side application
-├── README.md
-└── ...
-```
 
 ## Getting Started
 
