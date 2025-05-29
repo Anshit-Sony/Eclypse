@@ -16,15 +16,17 @@ interface Product {
   priceWithTax: number;
 }
 
+const url="https://eclypse-backend-aund.onrender.com"
+
 function App() {
   const { cartSelect } = ContextState();
-
+  
   const [products, setProducts] = useState<Product[]>([]);
 
   const fetchProducts = async () => {
     try {
       const response = await axios.get<Product[]>(
-        "http://localhost:3000/api/product"
+        url
       );
       setProducts(response.data);
     } catch (error) {
