@@ -1,4 +1,3 @@
-import React from "react";
 import { MdOutlineArrowOutward } from "react-icons/md";
 import { FaArrowCircleUp } from "react-icons/fa";
 
