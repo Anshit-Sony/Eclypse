@@ -1,4 +1,3 @@
-import React from 'react'
 import logo from '../assets/logo.jpg'
 import { ContextState } from '../context/Provider';
 const Navbar = () => {
